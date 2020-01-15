@@ -1,0 +1,49 @@
+.form{
+    background: rgba(15, 15, 15, 0.911);
+    min-height: 80vh;
+  
+}
+.form h1{
+    padding-top: 10%;
+    padding-left: 10%;
+}
+.form input{
+width: 300px;
+margin:0 50px;
+margin-top: 5%;
+background: #0f0e0e;
+border: none;
+padding: 10px;
+outline: none;
+  font-size: 20px;
+  border-radius: 20px;
+color:#fff;
+animation: animate8 7s forwards;
+}
+.form .password{
+    width:400px;
+}
+.form textarea{
+margin-left: 10%;
+width:900px;
+height: 300px;
+margin-top: 10%;
+background: #0f0e0e;
+border:none;
+outline: none;
+padding: 30px;
+color:#fff;
+font-size: 20px;
+}
+
+
+@keyframes animate8 {
+    0%{
+        transform: translateY(50%);
+    }
+}
+.button0{
+    width: 300px;
+    background: red;
+    font-size: 30px;
+}
