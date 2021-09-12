@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "@zeit/next-sass": "^1.0.1",
-    "axios": "^0.19.1",
+    "axios": "^0.21.2",
     "bootstrap": "^4.4.1",
     "jquery": "^3.4.1",
     "loading-spinner": "^1.2.1",
